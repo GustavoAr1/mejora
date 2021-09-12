@@ -1,0 +1,26 @@
+{
+  "name": "mejora",
+  "version": "1.0.0",
+  "description": "socket.io\r express\r shortid\r nodemon(dev)",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoAr1/mejora.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoAr1/mejora/issues"
+  },
+  "homepage": "https://github.com/GustavoAr1/mejora#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "shortid": "^2.2.16",
+    "socket.io": "^4.2.0"
+  }
+}
